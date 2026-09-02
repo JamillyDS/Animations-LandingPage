@@ -2,4 +2,4 @@
 
 <p>Página simples que fiz apenas para diversão.</p>
 
-<a href="ttps://jamillyds.github.io/Animations-LandingPage/"></a>
+<a href="ttps://jamillyds.github.io/Animations-LandingPage/">Veja Aqui</a>
